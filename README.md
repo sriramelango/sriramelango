@@ -7,7 +7,7 @@ Passionate Enginnering and Science Researcher, Working Towards Using Computer Vi
 - ⚙️ Enginnering and Data Communication
 - 🧬 Molecular Biology and Ecology
 
-## MY GIT STATS
+## GIT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=sriramelango&&show_icons=true&count_private=true&theme=midnight-purple"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=sriramelango&theme=midnight-purple"/>|
 |---|---|
 
