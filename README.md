@@ -1,7 +1,1 @@
-### 📊 Github Stats
-<a href='https://github.com/sriramelango/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/sriramelango/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/sriramelango/github-stats-transparent/output/generated/languages.svg)
-
-</a>
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=sriramelango&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
