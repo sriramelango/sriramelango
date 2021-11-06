@@ -8,6 +8,6 @@ Passionate Enginnering and Science Researcher, Working Towards Using Computer Vi
 - 🧬 Molecular Biology and Ecology
 
 ## MY GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=sriramelango&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=sriramelango&theme=radical"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=sriramelango&&show_icons=true&count_private=true&theme=midnight-purple"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=sriramelango&theme=midnight-purple"/>|
 |---|---|
 
