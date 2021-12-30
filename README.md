@@ -1,5 +1,5 @@
 ## ABOUT ME
-Passionate Enginnering and Science Researcher, Working Towards Using Computer Vision and AI for Global Solutions, High School Student!
+Passionate Enginnering and Science Researcher, Working Towards Using Computer Vision and NLP for Global Solutions, High School Student!
 
 - 💻 Machine Learning and NLP
 - 🪐 Astrophysics and Astrobiology
