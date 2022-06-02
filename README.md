@@ -11,3 +11,10 @@ Passionate Enginnering and Science Researcher, Working Towards Using Computer Vi
 <img src="https://github-readme-stats.vercel.app/api?username=sriramelango&&show_icons=true&count_private=true&theme=midnight-purple"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=sriramelango&theme=midnight-purple"/>|
 |---|---|
 
+<a href="https://github.com/sriramelango">
+    <img align="center" width="60%" src="./header.svg" />
+</a>
+<a href="https://github.com/sriramelango">
+    <img align="center" width="60%" src="./iso_calender.svg" />
+</a>
+<br/>
